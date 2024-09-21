@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjanakhatri30/TextUtils.git/static/css/main.76aec624.css",
+    "main.js": "/sanjanakhatri30/TextUtils.git/static/js/main.d7db5b82.js",
+    "static/js/453.02b6ed6f.chunk.js": "/sanjanakhatri30/TextUtils.git/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/sanjanakhatri30/TextUtils.git/index.html",
+    "main.76aec624.css.map": "/sanjanakhatri30/TextUtils.git/static/css/main.76aec624.css.map",
+    "main.d7db5b82.js.map": "/sanjanakhatri30/TextUtils.git/static/js/main.d7db5b82.js.map",
+    "453.02b6ed6f.chunk.js.map": "/sanjanakhatri30/TextUtils.git/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.d7db5b82.js"
+  ]
+}
